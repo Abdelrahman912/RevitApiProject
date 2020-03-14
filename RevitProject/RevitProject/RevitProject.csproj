@@ -40,15 +40,16 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CreateLevelsFromExcel.cs" />
-    <Compile Include="CreateStraightWalls.cs" />
-    <Compile Include="Excel.cs" />
-    <Compile Include="ExcelData.cs" />
-    <Compile Include="PlaceView.cs" />
-    <Compile Include="PlanView.cs" />
-    <Compile Include="Sheets.cs" />
-    <Compile Include="TagView.cs" />
-    <Compile Include="ViewFilter.cs" />
+    <Compile Include="Commands\CreateLevelsFromExcel.cs" />
+    <Compile Include="Commands\CreateStraightWalls.cs" />
+    <Compile Include="Excel\Excel.cs" />
+    <Compile Include="Excel\ExcelData.cs" />
+    <Compile Include="Commands\PlaceView.cs" />
+    <Compile Include="Commands\PlanView.cs" />
+    <Compile Include="Commands\Sheets.cs" />
+    <Compile Include="Commands\TagView.cs" />
+    <Compile Include="Commands\ViewFilter.cs" />
+    <Compile Include="Logic\FromExcelToRevit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="EPPlus, Version=5.0.4.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">

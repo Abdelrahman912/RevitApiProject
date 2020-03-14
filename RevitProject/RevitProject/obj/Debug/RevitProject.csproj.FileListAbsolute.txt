@@ -9,3 +9,14 @@ D:\ITI\Bim2\RevitAPI\labs and lectures\RevitProject\RevitProject\bin\Debug\EPPlu
 D:\ITI\Bim2\RevitAPI\labs and lectures\RevitProject\RevitProject\bin\Debug\RevitApp.dll
 D:\ITI\Bim2\RevitAPI\labs and lectures\RevitProject\RevitProject\bin\Debug\RevitApp.pdb
 D:\ITI\Bim2\RevitAPI\labs and lectures\RevitProject\RevitProject\bin\Debug\EPPlus.xml
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\RevitProject.dll.config
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\RevitProject.dll
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\RevitProject.pdb
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\EPPlus.dll
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\RevitApp.dll
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\RevitApp.pdb
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\bin\Debug\EPPlus.xml
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\obj\Debug\RevitProject.csprojAssemblyReference.cache
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\obj\Debug\RevitProject.csproj.CopyComplete
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\obj\Debug\RevitProject.dll
+D:\ITI\Bim2\RevitAPI\labs and lectures\RevitApiProject\RevitProject\RevitProject\obj\Debug\RevitProject.pdb
